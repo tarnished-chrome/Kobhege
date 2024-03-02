@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<populations>
+  <population Name="Kobhege_StartingGear">
+    <group Style="pickeach">
+      <object Blueprint="Camel Bladder" Number="1" />
+      <object Blueprint="Drained Chem Cell" Number="1" />
+      <object Blueprint="Glowsphere" Number="1" />
+      <object Blueprint="SalveTonic" Number="1" />
+      <table Name="Scrap 1" Number="7-11" />
+      <object Blueprint="KobhegeBrokenRecoiler" Number="1" />
+      <object Blueprint="KobhegeGeta" Number="1" />
+      <object Blueprint="KobhegeHoloLocket" Number="1" />
+      <object Blueprint="KobhegeKimono" Number="1" />
+      <object Blueprint="KobhegeNote" Number="1" />
+      <object Blueprint="KobhegeParasol" Number="1" />
+    </group>
+  </population>
+</populations>

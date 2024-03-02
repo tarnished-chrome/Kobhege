@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subtypes>
+  <class ID="Castes" ChargenTitle="Choose Caste" SingularTitle="caste">
+    <category Name="Kobhege" DisplayName="The Fallen Arcology of Kobhege">
+      <subtype Name="Scrap Merchant" Gear="Kobhege_StartingGear" Tile="sw_hermit.png" DetailColor="K">
+        <stat Name="Ego" Bonus="4" />
+        <stat Name="ElectricResistance" Bonus="15" />
+        <skills>
+          <skill Name="Tinkering_Scavenger" />
+          <skill Name="Tinkering" />
+          <skill Name="Persuasion_SnakeOiler" />
+          <skill Name="Customs_TrashDivining" />
+        </skills>
+      </subtype>
+    </category>
+  </class>
+</subtypes>

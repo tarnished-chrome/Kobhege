@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+  <object Name="KobhegeBrokenRecoiler" Inherits="Blank Recoiler">
+    <part Name="KobhegeBrokenObject" />
+  </object>
+  <object Name="KobhegeGeta" Inherits="Sandals">
+    <part Name="Description" Short="Wooden sandals with a flat base secured with leather straps. Elevated on thick perpendicular slats to keep the feet raised above the ground." />
+    <part Name="Render" DisplayName="worn geta" ColorString="&amp;w" DetailColor="r" />
+  </object>
+  <object Name="KobhegeHoloLocket" Inherits="Bracelet2">
+    <part Name="KobhegeHoloLocket" />
+    <part Name="Description" Short="A deceptively cheap-looking plastic bracelet that hides a holographic secret." />
+    <part Name="Render" DisplayName="{{hologram|holo}} locket" />
+  </object>
+  <object Name="KobhegeKimono" Inherits="Black Robes">
+    <part Name="Description" Short="Wrapped-front robe with long billowing sleeves. Not even its dark color can fully hide the dirt accumulated from countless days of travel." />
+    <part Name="Render" DisplayName="dirty kimono" />
+  </object>
+  <object Name="KobhegeNote" Inherits="Book">
+    <part Name="Book" ID="KobhegeNote" />
+    <part Name="Description" Short="This is the crumbled sheet of paper that your late spouse pressed into your hand before you recoiled away. You have regretted many times not reading it immediately." />
+    <part Name="Render" DisplayName="farewell note" Tile="Items/sw_unfurled_scroll1.bmp" />
+  </object>
+  <object Name="KobhegeParasol" Inherits="Dagger2">
+    <part Name="Description" Short="A canvas canopy stretched across a collapsible metal frame mounted on a wooden handle. Cheaply made but any source of shade is invaluable in the desert." />
+    <part Name="Render" DisplayName="cheap parasol" Tile="parasol.png" DetailColor="W" />
+  </object>
+</objects>
