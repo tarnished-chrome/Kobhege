@@ -25,4 +25,44 @@
     <part Name="Description" Short="A canvas canopy stretched across a collapsible metal frame mounted on a wooden handle. Cheaply made but any source of shade is invaluable in the desert." />
     <part Name="Render" DisplayName="cheap parasol" Tile="parasol.png" DetailColor="W" />
   </object>
+  <!-- cybernetics -->
+  <object Name="BeautifulVisage" Load="Merge">
+    <tag Name="StartingCybernetic:Scrap Merchant" />
+  </object>
+  <object Name="BiologicalIndexer" Load="Merge">
+    <tag Name="StartingCybernetic:General" Value="*delete" />
+  </object>
+  <object Name="CarbideHandBones" Load="Merge">
+    <tag Name="StartingCybernetic:General" Value="*delete" />
+  </object>
+  <object Name="DermalInsulation" Load="Merge">
+    <tag Name="StartingCybernetic:General" Value="*delete" />
+  </object>
+  <object Name="HyperElasticAnkleTendons" Load="Merge">
+    <tag Name="StartingCybernetic:General" Value="*delete" />
+  </object>
+  <object Name="InflatableAxons" Load="Merge">
+    <tag Name="StartingCybernetic:General" Value="*delete" />
+  </object>
+  <object Name="NavigationSystem" Load="Merge">
+    <tag Name="StartingCybernetic:Scrap Merchant" />
+  </object>
+  <object Name="PalladiumElectrodeposits" Load="Merge">
+    <tag Name="StartingCybernetic:Scrap Merchant" />
+  </object>
+  <object Name="ParabolicMuscularSubroutine" Load="Merge">
+    <tag Name="StartingCybernetic:General" Value="*delete" />
+  </object>
+  <object Name="Pentaceps" Load="Merge">
+    <tag Name="StartingCybernetic:General" Value="*delete" />
+  </object>
+  <object Name="RapidReleaseFingerFlexors" Load="Merge">
+    <tag Name="StartingCybernetic:General" Value="*delete" />
+  </object>
+  <object Name="StabilizerArmLocks" Load="Merge">
+    <tag Name="StartingCybernetic:General" Value="*delete" />
+  </object>
+  <object Name="TranslucentSkin" Load="Merge">
+    <tag Name="StartingCybernetic:General" Value="*delete" />
+  </object>
 </objects>
